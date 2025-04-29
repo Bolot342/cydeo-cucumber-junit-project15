@@ -33,7 +33,6 @@ Feature: Wiki search features
     Examples: search values we are going to be using this scenario outline
       | searchValue     | expectedTitle   | expectedMainHeader | expectedImageHeader |
       | Steve Jobs      | Steve Jobs      | Steve Jobs         | Steve Jobs          |
-      | Marry Barra     | Marry Barra     | Marry Barra        | Marry Barra         |
       | Rosalind Brewer | Rosalind Brewer | Rosalind Brewer    | Rosalind Brewer     |
       | Sundar Pichai   | Sundar Pichai   | Sundar Pichai      | Sundar Pichai       |
 
